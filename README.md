@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, cooking and scuba diving
 - 🌱 I’m currently trying to perfect Python coding.
 - 💞️ I’m looking to collaborate on workforce management and security related projects.
-- 📫 How to reach me - send a message viq github
+- 📫 How to reach me - send a message via github
 
 <!---
 kpg141260/kpg141260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
