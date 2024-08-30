@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @kpg141260
 - 👀 I’m interested in coding, cooking and scuba diving
-- 🌱 I’m currently trying to perfect Python coding.
-- 💞️ I’m looking to collaborate on workforce management and security related projects.
+- 🌱 Python, Java, C, Cpp.
+- 💞️ I’m looking to collaborate on IoT projects based on RP2040 Pico and Pico W.
+- 📽️Working on a project to automate Marine Tank management 
+with 2 Pico's client server setup with web access via Microdot.
 - 📫 How to reach me - send a message via github
 
 <!---
